@@ -44,6 +44,9 @@ status-website:
       href: /
     - title: Home
       href: https://bigbeartechworld.com
+      
+i18n:
+  footer: BigBearUptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
