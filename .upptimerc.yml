@@ -15,7 +15,7 @@ status-website:
 #   cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://bigbeartechworld.com/cdn/local/logo.png?w=54
   name: BigBearUptime
   introTitle: "**BigBearUptime** is where you can see live info on all our products."
   introMessage: 
