@@ -6,6 +6,9 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: BigBearTechWorld
     url: https://bigbeartechworld.com
+    
+assignees: # Users to assign downtime issues (optional)
+  - dragonfire1119
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
