@@ -32,9 +32,9 @@ assignees: # Users to assign downtime issues (optional)
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-#   cname: demo.upptime.js.org
+  cname: status.bigbeartechworld.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime
+#   baseUrl: /uptime
   logoUrl: https://bigbeartechworld.com/cdn/local/logo.png?w=54
   name: BigBearUptime
   introTitle: "**BigBearUptime** is where you can see live info on all our products."
