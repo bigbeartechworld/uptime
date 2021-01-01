@@ -39,6 +39,9 @@ status-website:
   name: BigBearUptime
   introTitle: "**BigBearUptime** is where you can see live info on all our products."
   introMessage: 
+  scripts:
+    - src: https://code.tidio.co/kdnp9skmyt1ojiksn9e5oe0orrw2dbpp.js
+      async: true
   navbar:
     - title: Status
       href: /
