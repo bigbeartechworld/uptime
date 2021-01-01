@@ -29,6 +29,8 @@ sites:
     
 assignees: # Users to assign downtime issues (optional)
   - dragonfire1119
+  
+user-agent: dragonfire1119
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
