@@ -12,6 +12,8 @@ sites:
     url: https://boxinvy.com
   - name: DoorKnockerPal
     url: https://doorknockerpal.com
+  - name: DoorKnockerPal Dashboard
+    url: https://dashboard.doorknockerpal.com
   - name: Emailcove
     url: https://emailcove.com
   - name: Goalpense
