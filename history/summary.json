@@ -148,9 +148,9 @@
     "url": "https://panelbay.bigbeartechworld.com",
     "icon": "https://favicons.githubusercontent.com/panelbay.bigbeartechworld.com",
     "slug": "panelbay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +159,9 @@
     "timeWeek": 412,
     "timeMonth": 400,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-09": 0
+    }
   },
   {
     "name": "PilotCarHub",
@@ -185,11 +187,11 @@
     "icon": "https://favicons.githubusercontent.com/twistedtext.bigbeartechworld.com",
     "slug": "twisted-text",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 301,
     "timeDay": 285,
     "timeWeek": 276,
