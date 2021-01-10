@@ -112,9 +112,9 @@
     "url": "https://goalpense.bigbeartechworld.com",
     "icon": "https://favicons.githubusercontent.com/goalpense.bigbeartechworld.com",
     "slug": "goalpense",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 588,
     "timeMonth": 564,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-10": 0
+    }
   },
   {
     "name": "Mealinvy",
@@ -149,18 +151,18 @@
     "icon": "https://favicons.githubusercontent.com/panelbay.bigbeartechworld.com",
     "slug": "panelbay",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "94.10%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptime": "98.38%",
+    "uptimeDay": "85.30%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 400,
     "timeDay": 0,
     "timeWeek": 407,
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2021-01-10": 40,
+      "2021-01-10": 167,
       "2021-01-09": 45
     }
   },
@@ -188,11 +190,11 @@
     "icon": "https://favicons.githubusercontent.com/twistedtext.bigbeartechworld.com",
     "slug": "twisted-text",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 305,
     "timeDay": 378,
     "timeWeek": 280,
