@@ -4,18 +4,19 @@
     "url": "https://bigbeartechworld.com",
     "icon": "https://favicons.githubusercontent.com/bigbeartechworld.com",
     "slug": "big-bear-tech-world",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
-    "time": 287,
-    "timeDay": 328,
-    "timeWeek": 373,
-    "timeMonth": 277,
-    "timeYear": 287,
+    "time": 283,
+    "timeDay": 217,
+    "timeWeek": 340,
+    "timeMonth": 272,
+    "timeYear": 283,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-01-20": 60
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://bigbeartechhub.com",
     "icon": "https://favicons.githubusercontent.com/bigbeartechhub.com",
     "slug": "big-bear-tech-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
@@ -36,6 +37,7 @@
     "timeMonth": 1443,
     "timeYear": 1517,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-01-20": 60
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://boxinvy.com",
     "icon": "https://favicons.githubusercontent.com/boxinvy.com",
     "slug": "boxinvy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.46%",
@@ -56,6 +58,7 @@
     "timeMonth": 413,
     "timeYear": 458,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-01-20": 60,
       "2021-01-10": 222
     }
@@ -119,9 +122,9 @@
     "url": "https://goalpense.bigbeartechworld.com",
     "icon": "https://favicons.githubusercontent.com/goalpense.bigbeartechworld.com",
     "slug": "goalpense",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.81%",
@@ -131,6 +134,7 @@
     "timeMonth": 438,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-01-20": 60,
       "2021-01-10": 41
     }
@@ -140,9 +144,9 @@
     "url": "https://mealinvy.com",
     "icon": "https://favicons.githubusercontent.com/mealinvy.com",
     "slug": "mealinvy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.37%",
@@ -152,6 +156,7 @@
     "timeMonth": 371,
     "timeYear": 410,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-01-20": 60,
       "2021-01-10": 270
     }
@@ -161,9 +166,9 @@
     "url": "https://panelbay.bigbeartechworld.com",
     "icon": "https://favicons.githubusercontent.com/panelbay.bigbeartechworld.com",
     "slug": "panelbay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.40%",
@@ -173,6 +178,7 @@
     "timeMonth": 271,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-01-20": 60,
       "2021-01-10": 208,
       "2021-01-09": 45
@@ -183,9 +189,9 @@
     "url": "https://pilotcarhub.com",
     "icon": "https://favicons.githubusercontent.com/pilotcarhub.com",
     "slug": "pilot-car-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
@@ -195,6 +201,7 @@
     "timeMonth": 421,
     "timeYear": 453,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-01-20": 60
     }
   },
@@ -203,9 +210,9 @@
     "url": "https://twistedtext.bigbeartechworld.com",
     "icon": "https://favicons.githubusercontent.com/twistedtext.bigbeartechworld.com",
     "slug": "twisted-text",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.58%",
@@ -215,6 +222,7 @@
     "timeMonth": 245,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-01-20": 60,
       "2021-01-18": 59,
       "2021-01-08": 13,
@@ -227,18 +235,18 @@
     "icon": "https://favicons.githubusercontent.com/wealtor.com",
     "slug": "wealtor",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.68%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.68%",
     "time": 380,
     "timeDay": 390,
     "timeWeek": 325,
     "timeMonth": 333,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2021-02-06": 0,
+      "2021-02-06": 109,
       "2021-01-20": 60
     }
   }
