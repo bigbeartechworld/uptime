@@ -6,6 +6,8 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: BigBearTechWorld
     url: https://bigbeartechworld.com
+  - name: BigBearApps
+    url: https://app.bigbeartechworld.com
   - name: BigBearTechHub
     url: https://bigbeartechhub.com
   - name: Boxinvy
